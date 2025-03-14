@@ -73,6 +73,9 @@ else {
 											<label>Password :- </label>
 											<input type="password" name="password" placeholder="Password" class="form-control mb-3">
 										</div>
+										<div>
+											<p><a href="../project4">forget password</a></p>
+										</div>
 									</div>
 
 
@@ -83,6 +86,8 @@ else {
 					</div>
 
 					<p class="mt-3">Don't have an Acount <a href="register.php">Sign up</a></p>
+
+
 				</div>
 			</div>
 		</div>
