@@ -82,7 +82,7 @@ function randomPassword() {
 				</form>
 			</div><?php if($pwd){ ?>
 			<p>Your password is reseted to <a class="text-danger"><?php echo $pwd;?></a> Kindly copy it</p>
-			<p><a href="../project1/login.php">Login now</a></p>
+			<p><a href="../login.php">Login now</a></p>
 		<?php } ?>
 		</div>
 	</div>
